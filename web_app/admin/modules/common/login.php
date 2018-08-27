@@ -89,7 +89,7 @@ if (is_submit('login'))
              </div>
              <div class="form-group">
                <div class="col-sm-offset-2 col-sm-10">
-                 <label>Danh sách tài khoản (ID | Password)</label>
+                 <label>Danh sách tài khoản (ID | Password)</label><br>
                  <span>admin | admin</span><br>
                  <span>deposit | admin</span><br>
                  <span>service | admin</span><br>
