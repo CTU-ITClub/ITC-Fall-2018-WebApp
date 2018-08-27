@@ -2,7 +2,7 @@
 <?php
 	// Hàm tạo URL
 	function base_url($uri = ''){
-	    return 'http://localhost/quickpayment/web_app/'.$uri;
+	    return 'http://localhost/itc_qpm/web_app/'.$uri;
 	}
 
 	// Hàm redirect
